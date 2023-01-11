@@ -95,6 +95,7 @@
 		C9CDEA70296EE1C600C8A14B /* Instagram */ = {
 			isa = PBXGroup;
 			children = (
+				C9CDEA9D296EE4DB00C8A14B /* controller */,
 				C9CDEA71296EE1C600C8A14B /* InstagramApp.swift */,
 				C9CDEA73296EE1C600C8A14B /* ContentView.swift */,
 				C9CDEA75296EE1C700C8A14B /* Assets.xcassets */,
@@ -127,6 +128,13 @@
 				C9CDEA8F296EE1C700C8A14B /* InstagramUITestsLaunchTests.swift */,
 			);
 			path = InstagramUITests;
+			sourceTree = "<group>";
+		};
+		C9CDEA9D296EE4DB00C8A14B /* controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
